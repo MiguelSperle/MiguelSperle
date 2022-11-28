@@ -10,16 +10,7 @@ let MiguelSperle = {
 };
 
 
-## Hello World, I'm Marcos Paulo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-```javascript
-let MarcosPaulo62 = {
-    age: 19,
-    country: 'Brazil',
-    city: 'Cruz das Almas, BA',
-    stack: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'C#', 'Python', 'MySQL'],
-    interestedIn: ['React', 'Angular', 'Node']
-};
 ```
 
 <br>
@@ -28,11 +19,7 @@ let MarcosPaulo62 = {
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosPaulo62&label=Profile%20views&color=0e75b6&style=flat" alt="MarcosPaulo62" /> </p>
 
-<div align="center">
-    <a href="https://github.com/MarcosPaulo62">
-        <img height = "150em" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=MarcosPaulo62&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-        <img height = "150em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcosPaulo62&layout=compact&langs_count=8&theme=tokyonight" />  
-</div>
+
 
 <div style="display: inline_block;"><br> 
     <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
