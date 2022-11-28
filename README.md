@@ -34,7 +34,7 @@ let MiguelSperle = {
 ## A little about me
 
 <p align="left">
-    🔭 I'm student in highshool and i study develpment web in my free time
+    🔭 I'm student in highschool and i study development web in my free time
 </p>
 
 <p align="left">
