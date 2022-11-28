@@ -9,8 +9,6 @@ let MiguelSperle = {
     interestedIn: ['React']
 };
 
-
-
 ```
 
 <br>
