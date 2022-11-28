@@ -17,7 +17,7 @@ let MiguelSperle = {
 
 ## 🛠️ GitHub Statistics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosPaulo62&label=Profile%20views&color=0e75b6&style=flat" alt="MarcosPaulo62" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MiguelSperle62&label=Profile%20views&color=0e75b6&style=flat" alt="MiguelSperle" /> </p>
 
 
 
