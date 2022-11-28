@@ -38,7 +38,7 @@ let MiguelSperle = {
 </p>
 
 <p align="left">
-    📫 <a href = "mailto: miguelsperle205@yahoo.com">How to reach me: e-mail </a>
+    📫 <a href = "miguelsperle205@yahoo.com">How to reach me: e-mail </a>
 </p>
 
 ##
