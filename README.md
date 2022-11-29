@@ -18,21 +18,21 @@ let MiguelSperle = {
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MiguelSperle62&label=Profile%20views&color=0e75b6&style=flat" alt="MiguelSperle" /> </p>
 
 <p align="center">
-  <a href="https://github.com/lauraferraz5/lauraferraz5">
+  <a href="https://github.com/MiguelSperle/MiguelSperle">
     <img
       align="center"
       height="165"
       width="400"
-      src="https://github-readme-stats.vercel.app/api?username=lauraferraz5&theme=vue-dark&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=MiguelSperle&theme=vue-dark&show_icons=true"
     />
   </a>
 
-  <a href="https://github.com/lauraferraz5/lauraferraz5">
+  <a href="https://github.com/MiguelSperle/MiguelSperle">
     <img
       align="center"
       height="165"
       width="400"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraferraz5&theme=vue-dark&layout=compact&langs_count=6"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSperle&theme=vue-dark&layout=compact&langs_count=6"
     />
   </a>  
 </p>
