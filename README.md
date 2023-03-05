@@ -6,7 +6,7 @@ let MiguelSperle = {
     country: 'Brazil',
     city: 'Rio de janeiro',
     stack: ['HTML', 'CSS', 'JavaScript', 'React'],
-    interestedIn: [ 'TypeScript', 'Tailwind or Bootstrap']
+    interestedIn: [ 'TypeScript', 'Tailwind or Bootstrap or Material Ui']
 };
 
 ```
