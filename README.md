@@ -2,11 +2,11 @@
 
 ```javascript
 let MiguelSperle = {
-    age: 15,
+    age: 16,
     country: 'Brazil',
     city: 'Rio de janeiro',
-    stack: ['HTML', 'CSS', 'JavaScript', 'React'],
-    interestedIn: [ 'TypeScript', 'Tailwind or Bootstrap or Material Ui']
+    stack: ['HTML', 'CSS', 'JavaScript', 'React', 'TypeScript'],
+    interestedIn: ['Tailwind or Bootstrap or Material Ui']
 };
 
 ```
