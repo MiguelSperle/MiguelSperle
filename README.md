@@ -8,8 +8,10 @@ let MiguelSperle = {
     stack: ['HTML', 'CSS', 'JavaScript', 'React', 'TypeScript'],
     interestedIn: ['Tailwind or Bootstrap or Material Ui']
 };
-
 ```
+- I study Front-End ;
+- I want to be Front-End Developer ;
+- I'm in High School ;
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
