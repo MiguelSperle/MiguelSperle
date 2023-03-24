@@ -1,4 +1,4 @@
-## Hello World, I'm MiguelSperle  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Hello World, My name is Miguel Sperle!
 
 ```javascript
 let MiguelSperle = {
