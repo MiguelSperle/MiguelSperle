@@ -1,5 +1,9 @@
 ## Hello World, My name is Miguel Sperle!
 
+- 📕 i study Front-End ;
+- 🚀 i want to be Front-End Developer ;
+- 📕 i'm in High School ;
+
 ```javascript
 let MiguelSperle = {
     age: 16,
@@ -9,9 +13,6 @@ let MiguelSperle = {
     interestedIn: ['Tailwind or Bootstrap or Material Ui']
 };
 ```
-- 📕 i study Front-End ;
-- 🚀 i want to be Front-End Developer ;
-- 📕 i'm in High School ;
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
