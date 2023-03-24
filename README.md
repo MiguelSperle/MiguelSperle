@@ -24,5 +24,4 @@ let MiguelSperle = {
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  alt="typescript"  />
  <img align="center" alt="Sperle-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Sperle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="right" alt="rocket" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97910848/178544352-52e22c21-6157-49b1-a479-dba6a7db9444.png" />
 </div>
