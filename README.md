@@ -10,7 +10,7 @@ let MiguelSperle = {
     age: 16,
     country: 'Brazil',
     city: 'Rio de janeiro',
-    stack: ['HTML', 'CSS', 'JavaScript', 'React', 'TypeScript'],
+    stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React'],
     interestedIn: ['React native']
 };
 ```
