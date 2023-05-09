@@ -1,7 +1,7 @@
 ## Welcome!
 
 ●  Miguel Sperle <br>
-●  FrontEnd Developer <br>
+●  *Front-End Developer* <br>
 ●  16 years old <br>
 ●  Brazilian <br>
 
