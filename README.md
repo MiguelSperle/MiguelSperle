@@ -7,7 +7,6 @@
 
 ```javascript
 let MiguelSperle = {
-    age: 16,
     country: 'Brazil',
     city: 'Rio de janeiro',
     stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React'],
