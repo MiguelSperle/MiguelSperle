@@ -1,4 +1,4 @@
-## Hello, welcome!
+## Welcome!
 
 ●  Miguel Sperle <br>
 ●  FrontEnd Developer <br>
