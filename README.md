@@ -1,9 +1,9 @@
 ## Welcome!
 
-●  Miguel Sperle <br>
+●  *Miguel Sperle* <br>
 ●  *Front-End Developer* <br>
-●  16 years old <br>
-●  Brazilian <br>
+●  *16 years old* <br>
+●  *Brazilian* <br>
 
 ```javascript
 let MiguelSperle = {
