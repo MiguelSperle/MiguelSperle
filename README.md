@@ -1,8 +1,9 @@
-## Hello World, My name is Miguel Sperle!
+## Hello, welcome!
 
-- 📕 i study Front-End ;
-- 🚀 i want to be Front-End Developer ;
-- 📕 i'm in High School ;
+● Miguel Sperle
+● FrontEnd Developer
+● 16 years old
+● Brazilian
 
 ```javascript
 let MiguelSperle = {
