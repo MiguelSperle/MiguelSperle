@@ -9,7 +9,7 @@
 let MiguelSperle = {
     country: 'Brazil',
     city: 'Rio de janeiro',
-    stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React'],
+    stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Next JS'],
     interestedIn: ['React native']
 };
 ```
