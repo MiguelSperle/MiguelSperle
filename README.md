@@ -3,7 +3,7 @@
 ●  *Miguel Sperle* <br>
 ●  *Front-End Developer* <br>
 ●  *16 years old* <br>
-●  *Brazilian* <br>
+●  *Brazilian | Portuguese* <br>
 
 ```javascript
 let MiguelSperle = {
