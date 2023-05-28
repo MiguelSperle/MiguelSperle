@@ -3,7 +3,7 @@
 ●  *Miguel Sperle* <br>
 ●  *Front-End Developer* <br>
 ●  *16 years old* <br>
-●  *Brazilian Portuguese <img height="160em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-portugal_1f1f5-1f1f9.png"/> <br> 
+●  *Brazilian Portuguese <img height="60em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-portugal_1f1f5-1f1f9.png"/> <br> 
 
 ```javascript
 let MiguelSperle = {
