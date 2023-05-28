@@ -8,7 +8,7 @@
 ```javascript
 let MiguelSperle = {
     country: ['Brazil','Portugal'],
-    city: ['Rio de Janeiro','Bragança']
+    city: ['Rio de Janeiro','Bragança'],
     stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Next JS'],
     interestedIn: ['React native']
 };
