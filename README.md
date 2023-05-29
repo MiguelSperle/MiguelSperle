@@ -12,7 +12,7 @@ let MiguelSperle = {
     stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Next JS'],
     interestedIn: ['React native']
 };
-*```
+```*
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
