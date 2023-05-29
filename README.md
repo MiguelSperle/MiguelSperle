@@ -5,14 +5,14 @@
 ●  *16 years old* <br>
 ●  *Brazilian <img height="22em" align="center" src="https://em-content.zobj.net/thumbs/120/apple/354/flag-brazil_1f1e7-1f1f7.png"/> | Portuguese <img height="22em" align="center" src="https://em-content.zobj.net/thumbs/120/google/350/flag-portugal_1f1f5-1f1f9.png"/>* <br> 
 
-```javascript
+*```javascript
 let MiguelSperle = {
     country: ['Brazil','Portugal'],
     city: ['Rio de Janeiro','Bragança'],
     stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Next JS'],
     interestedIn: ['React native']
 };
-```
+*```
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
