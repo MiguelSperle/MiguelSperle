@@ -10,7 +10,7 @@ let MiguelSperle = {
     country: ['Brazil','Portugal'],
     city: ['Rio de Janeiro','Bragança'],
     stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Next JS', 'React Native'],
-    interestedIn: ['']
+    interestedIn: ['Node JS']
 };
 ```
 
