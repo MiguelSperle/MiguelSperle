@@ -9,8 +9,8 @@
 let MiguelSperle = {
     country: ['Brazil','Portugal'],
     city: ['Rio de Janeiro','Bragança'],
-    stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Next JS', 'React Native'],
-    interestedIn: ['Node JS']
+    stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Next JS', 'React Native', 'Node JS', 'Fastify'],
+    interestedIn: ['']
 };
 ```
 
