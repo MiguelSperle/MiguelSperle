@@ -7,7 +7,7 @@
 
 ```javascript
 let MiguelSperle = {
-    country: ['Brazil','Portugal'],
+    nationality: ['Brazil','Portugal'],
     city: ['Rio de Janeiro','Bragança'],
     stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Next JS', 'React Native', 'Node JS', 'Fastify', 'Prisma'],
     interestedIn: ['']
