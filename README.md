@@ -10,7 +10,7 @@ let MiguelSperle = {
     nationality: ['Brazilian ','Portuguese'],
     city: ['Rio de Janeiro','Bragança'],
     stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Next JS', 'React Native'],
-    I have a litle knowledge: ['Node JS', 'Fastify', 'Prisma']
+    a litle knowledge: ['Node JS', 'Fastify', 'Prisma']
     interestedIn: ['']
 };
 ```
