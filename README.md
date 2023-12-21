@@ -22,7 +22,7 @@ let MiguelSperle = {
 
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Sperle-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" alt="Sperle-REACT" height="30" width="40" src="https://camo.githubusercontent.com/c831e3a6be7677e1f417b4b78d2abf5d44cf39082c695aae40ac07f860e5ce2a/68747470733a2f2f7865737175652e726f636b6574736561742e6465762f706c6174666f726d2f746563682f6a6176617363726970742e737667" />
  <img align="center" alt="Sperle-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  alt="typescript"  />
  <img align="center" alt="Sperle-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
