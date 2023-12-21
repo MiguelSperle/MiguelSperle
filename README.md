@@ -9,7 +9,7 @@
 let MiguelSperle = {
     nationality: ['Brazilian ','Portuguese'],
     city: ['Rio de Janeiro'],
-    stack: ['HTML', 'CSS', 'JAVASCRPIT', 'TYPESCRIPTt', 'NEXT JS', 'REACT NATIVE', 'FASTIFY', 'PRISMA-ORM'],
+    stack: ['HTML', 'CSS', 'JAVASCRPIT', 'TYPESCRIPT', 'NEXT JS', 'REACT NATIVE', 'FASTIFY', 'PRISMA-ORM'],
 };
 ```
 
