@@ -10,11 +10,9 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSperle&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+
 ```javascript
-let MiguelSperle = {
-    city: ['Rio de Janeiro'],
-    stack: ['HTML', 'CSS', 'JAVASCRIPT', 'TYPESCRIPT', 'REACT', 'NEXT JS', 'REACT NATIVE', 'FASTIFY'],
-};
+const    stack: ['HTML', 'CSS', 'JAVASCRIPT', 'TYPESCRIPT', 'REACT', 'NEXT JS', 'REACT NATIVE', 'FASTIFY'],
 ```
 
 
