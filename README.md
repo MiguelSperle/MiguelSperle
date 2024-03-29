@@ -2,7 +2,7 @@
 
 ● 🚀 Front-End Developer; <br>
 ● 📕 Currently Studying Java; <br>
-●  Brazilian <img height="22em" align="center" src="https://em-content.zobj.net/thumbs/120/apple/354/flag-brazil_1f1e7-1f1f7.png"/> | Portuguese <img height="22em" align="center" src="https://em-content.zobj.net/thumbs/120/google/350/flag-portugal_1f1f5-1f1f9.png"/> <br> 
+● <img height="22em" align="center" src="https://em-content.zobj.net/thumbs/120/apple/354/flag-brazil_1f1e7-1f1f7.png"/> Brazilian  |  <img height="22em" align="center" src="https://em-content.zobj.net/thumbs/120/google/350/flag-portugal_1f1f5-1f1f9.png"/> Portuguese <br> 
 
 ```javascript
 let MiguelSperle = {
