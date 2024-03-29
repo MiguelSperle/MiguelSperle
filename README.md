@@ -9,10 +9,10 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MiguelSperle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSperle&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<br>
 
 ```javascript
-const stack: ['HTML', 'CSS', 'JAVASCRIPT', 'TYPESCRIPT', 'REACT', 'NEXT JS', 'REACT NATIVE', 'FASTIFY'],
+const stack = ['HTML', 'CSS', 'JAVASCRIPT', 'TYPESCRIPT', 'REACT', 'NEXT JS', 'REACT NATIVE', 'FASTIFY']
 ```
 
 
