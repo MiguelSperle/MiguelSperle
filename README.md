@@ -12,7 +12,7 @@
 <br>
 
 ```javascript
-const stack = ['HTML', 'CSS', 'JAVASCRIPT', 'TYPESCRIPT', 'REACT', 'NEXT JS', 'REACT NATIVE', 'FASTIFY']
+const stack = ['HTML', 'CSS', 'JAVASCRIPT', 'TYPESCRIPT', 'NEXT JS', 'REACT NATIVE', 'FASTIFY']
 ```
 
 
