@@ -12,7 +12,7 @@
 <br>
 
 ```javascript
-List<Interger> stacks = new ArrayList<Interger>();
+List<String> stacks = new ArrayList<String>();
 
 stacks.add("HTML")
 stacks.add("CSS")
