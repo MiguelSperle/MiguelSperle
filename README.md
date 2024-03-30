@@ -12,7 +12,12 @@
 <br>
 
 ```javascript
-const stack = ['HTML', 'CSS', 'JAVASCRIPT', 'TYPESCRIPT', 'NEXT JS', 'REACT NATIVE', 'FASTIFY']
+List<Interger> stacks = new ArrayList<Interger>();
+
+stacks.add("HTML")
+stacks.add("CSS")
+stacks.add("JAVASCRIPT")
+stacks.add("NEXT JS")
+stacks.add("REACT NATIVE")
+stacks.add("FASTIFY")
 ```
-
-
