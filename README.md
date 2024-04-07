@@ -19,6 +19,5 @@ stacks.add("CSS")
 stacks.add("JAVASCRIPT")
 stacks.add("NEXT JS")
 stacks.add("REACT NATIVE")
-stacks.add("Fastify")
 stacks.add("JAVA")
 ```
