@@ -17,6 +17,7 @@ List<String> stacks = new ArrayList<String>();
 stacks.add("HTML")
 stacks.add("CSS")
 stacks.add("JAVASCRIPT")
+stacks.add("TYPESCRIPT")
 stacks.add("NEXT JS")
 stacks.add("REACT NATIVE")
 stacks.add("JAVA")
