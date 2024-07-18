@@ -1,4 +1,4 @@
-## Hi, My name is Miguel!
+## Hi, welcome to my github profile!
 
 - 🚀 Front-End Developer; <br>
 - 📕 Currently Studying Java; <br>
