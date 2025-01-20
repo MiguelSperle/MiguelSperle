@@ -21,10 +21,10 @@
   </div>
   <div style="display: flex; align-items: flex-start;">
     <div style="width: 250px; height: 125px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=MiguelSperle&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="width: 30%; height: 30%; object-fit: cover;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=MiguelSperle&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="width: 35%; height: 35%; object-fit: cover;"/>
     </div>
     <div style="width: 250px; height: 125px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSperle&layout=compact&langs_count=7&theme=dark" style="width: 30%; height: 30%; object-fit: cover;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSperle&layout=compact&langs_count=7&theme=dark" style="width: 35%; height: 35%; object-fit: cover;"/>
     </div>
   </div>
 </div>
