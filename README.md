@@ -1,5 +1,4 @@
 <p float="left">
- <img src="https://github.com/MiguelSperle/MiguelSperle/blob/main/batsay.jpeg" width="500px" align="left">
   <p float="left">
     <samp>
       :3
