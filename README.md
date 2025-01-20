@@ -1,5 +1,5 @@
-<div float="left">
-  <p float="left">
+<div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 20px;">
     <samp>
       :3
       <br>
@@ -18,9 +18,10 @@
       <br>
       <br>
     </samp>
-  </p>
-   <div style="display: flex; align-items: flex-start;">
+  </div>
+  <div style="display: flex; align-items: flex-start;">
     <img height="150em" width="310px" src="https://github-readme-stats.vercel.app/api?username=MiguelSperle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSperle&layout=compact&langs_count=7&theme=dark"/>
-   </div>
+  </div>
 </div>
+
