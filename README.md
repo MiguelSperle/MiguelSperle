@@ -12,12 +12,9 @@
             - backend developer<br>
             - computer enthusiast.<br>
       <br>
-      langs:<br>
-          > java & typescript | javascript
+      Knowledge:<br>
+          > Java | Spring Boot | SOLID | Hexagonal Architecture | Docker
       <br>
-      <br>
-      frameworks:<br>
-          > spring boot & next js
       <br>
       <br>
     </samp>
