@@ -4,7 +4,7 @@
       :3
       <br>
       <br>
-      Welcome to my GitHub profile! My name is Miguel, but many call me Miguelitos.
+      Welcome to my GitHub profile! My name is Miguel, but many call me Miguelito.
       <br>
       <br>
       about me:<br>
