@@ -4,7 +4,7 @@ Eu sou um desenvolvedor Backend. Estou sempre em busca de evolução e aprendiza
 
 Tenho conhecimento em: 
 ```
- Java | Spring Boot | SOLID | Hexagonal Architecture | Unit Testing | Integration Testing | Docker
+ Java | Spring Boot | SOLID | Hexagonal Architecture | Docker | Unit Testing | Integration Testing
 ```
 
 
