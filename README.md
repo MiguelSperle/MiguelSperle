@@ -1,31 +1,16 @@
-<div style="display: flex; align-items: flex-start;">
-  <div style="margin-right: 20px;">
-    <samp>
-      :3
-      <br>
-      <br>
-      Welcome to my GitHub profile! My name is Miguel, but many call me Miguelito.
-      <br>
-      <br>
-      About me:<br>
-            - he/his, brazilian, pt-br + eng<br>
-            - backend developer<br>
-            - computer enthusiast<br>
-      <br>
-      Knowledge:<br>
-          > Java | Spring Boot | SOLID | Hexagonal Architecture | Docker
-      <br>
-      <br>
-      <br>
-    </samp>
-  </div>
-  <div style="display: flex; align-items: flex-start;">
-    <div style="width: 250px; height: 125px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=MiguelSperle&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="width: 35%; height: 35%; object-fit: cover;"/>
-    </div>
-    <div style="width: 250px; height: 125px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSperle&layout=compact&langs_count=7&theme=dark" style="width: 35%; height: 35%; object-fit: cover;"/>
-    </div>
-  </div>
-</div>
+<h1>Olá! Pode me chamar de Miguelito</h1>
 
+Eu sou um desenvolvedor Backend. Estou sempre em busca de evolução e aprendizado. Acredito que o aprendizado contínuo é essencial para o bom desenvolvimento. Valorizo a colaboração e o compartilhamento de conhecimento com a comunidade, espero que gostem!
+
+Tenho conhecimento em: 
+```
+ Java | Spring Boot | SOLID | Hexagonal Architecture | Unit Testing | Integration Testing | Docker
+```
+
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelSperle&layout=compact&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSperle&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<a href ="https://www.linkedin.com/in/miguel-sperle-851916298/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
