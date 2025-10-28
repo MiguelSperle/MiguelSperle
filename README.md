@@ -4,7 +4,7 @@ Eu sou um Desenvolvedor Back-End. Estou sempre em busca de evolução e aprendiz
 
 Tenho conhecimento em: 
 ```
- Java | Spring Boot | PostgreSQL | SOLID | Hexagonal Architecture | Docker | RabbitMQ | Unit Testing
+ Java | Spring Boot | PostgreSQL | Solid | Hexagonal Architecture | Docker | RabbitMQ | Unit Testing
 ```
 
 
