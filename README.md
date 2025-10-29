@@ -1,10 +1,17 @@
 <h1>Olá! Pode me chamar de Miguelito</h1>
 
 Eu sou um Desenvolvedor Back-end. Estou sempre em busca de evolução e aprendizado. Acredito que o aprendizado contínuo é essencial para o bom desenvolvimento. Valorizo a colaboração e o compartilhamento de conhecimento com a comunidade, espero que gostem!
-
-Tenho conhecimento em: 
 ```
- Java | Spring Boot | PostgreSQL | RabbitMQ | SOLID | Hexagonal Architecture | Docker | Unit Testing
+Minhas habilidades:
+
+✔︎ Linguagens: Java, SQL, HTML básico
+✔︎ Frameworks e bibliotecas: Spring Boot, Spring Data JPA, Spring Security
+✔︎ Banco de Dados: PostgreSQL
+✔︎ Mensageria: RabbitMQ
+✔︎ Arquitetura: Hexagonal
+✔︎ Conceitos: SOLID, APIs REST, Autenticação e Autorização
+✔︎ Plataforma: Docker
+✔︎ Testes: Unitário
 ```
 
 
