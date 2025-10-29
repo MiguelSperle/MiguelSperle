@@ -1,6 +1,6 @@
 <h1>Olá! Pode me chamar de Miguelito</h1>
 
-Eu sou um Desenvolvedor Back-End. Estou sempre em busca de evolução e aprendizado. Acredito que o aprendizado contínuo é essencial para o bom desenvolvimento. Valorizo a colaboração e o compartilhamento de conhecimento com a comunidade, espero que gostem!
+Eu sou um Desenvolvedor Back-end. Estou sempre em busca de evolução e aprendizado. Acredito que o aprendizado contínuo é essencial para o bom desenvolvimento. Valorizo a colaboração e o compartilhamento de conhecimento com a comunidade, espero que gostem!
 
 Tenho conhecimento em: 
 ```
