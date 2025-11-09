@@ -8,7 +8,7 @@ Minhas habilidades:
 ✔︎ Frameworks e bibliotecas: Spring Boot, Spring Data JPA, Spring Security
 ✔︎ Banco de Dados: PostgreSQL
 ✔︎ Mensageria: RabbitMQ
-✔︎ Arquitetura: Hexagonal, Limpa
+✔︎ Arquitetura: Limpa, Hexagonal
 ✔︎ Conceitos: SOLID, APIs REST, Autenticação e Autorização
 ✔︎ Plataforma: Docker
 ✔︎ Testes: Unitário
