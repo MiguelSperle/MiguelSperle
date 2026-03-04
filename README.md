@@ -2,7 +2,7 @@
 
 Eu sou um Desenvolvedor Back-end. Estou sempre em busca de evolução e aprendizado. Acredito que o aprendizado contínuo é essencial para o bom desenvolvimento. Valorizo a colaboração e o compartilhamento de conhecimento com a comunidade, espero que gostem!
 ```
-Minhas habilidades:
+Meus conhecimentos:
 
 ✔︎ Linguagens: Java, SQL, HTML básico
 ✔︎ Frameworks e bibliotecas: Spring Boot, Spring Data JPA, Spring Security
