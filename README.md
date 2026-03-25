@@ -10,7 +10,7 @@ Eu sou um Desenvolvedor Back-end. Busco expandir constantemente meus conheciment
 ✔︎ Banco de Dados: PostgreSQL
 ✔︎ Mensageria: RabbitMQ
 ✔︎ Arquitetura: Limpa, Hexagonal
-✔︎ Conceitos: SOLID, REST
+✔︎ Conceito: SOLID, REST
 ✔︎ Plataforma: Docker
 ✔︎ Teste: Unitário
 ```
