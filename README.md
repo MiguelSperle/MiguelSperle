@@ -14,8 +14,6 @@ I am a Backend Developer focused on continuously expanding my knowledge. I belie
 ✔︎ Testing: Unit testing
 ```
 
-### GitHub Stats
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelSperle&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSperle&hide_border=true&layout=compact&theme=dracula" align="left" height="180em" />
