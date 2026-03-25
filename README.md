@@ -1,21 +1,20 @@
-## Olá! Bem-vindo ao meu perfil
+## Hello! Welcome to my profile.
 
-Eu sou um Desenvolvedor Back-end. Busco expandir constantemente meus conhecimentos. Acredito que a evolução e o aprendizado contínuo são essenciais para o nosso desenvolvimento. Valorizo a colaboração e o compartilhamento de conhecimento com a comunidade; espero que gostem!
+I am a Backend Developer focused on continuously expanding my knowledge. I believe that growth and continuous learning are essential for our development. I value collaboration and knowledge sharing with the community; I hope you like it!
 
-**Meus conhecimentos:**
+**My knowledge:**
 
 ```
-✔︎ Linguagem: Java, SQL, HTML básico
-✔︎ Framework: Spring
-✔︎ Banco de Dados: PostgreSQL
-✔︎ Mensageria: RabbitMQ
-✔︎ Arquitetura: Limpa, Hexagonal
-✔︎ Conceito: SOLID, REST
-✔︎ Plataforma: Docker
-✔︎ Teste: Unitário
+✔︎ Backend: Java (Spring)
+✔︎ Database Systems: PostgreSQL
+✔︎ Messaging Systems: RabbitMQ
+✔︎ Architecture: Clean, Hexagonal
+✔︎ Concept: SOLID, REST
+✔︎ Platform: Docker
+✔︎ Testing: Unit testing
 ```
 
-### Estatísticas do github 
+### GitHub Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelSperle&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" height="180em" />
