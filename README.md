@@ -1,15 +1,15 @@
-## Hello! Welcome to my profile.
+## Hello! Welcome to my profile
 
 I am a Backend Developer focused on continuously expanding my knowledge. I believe that growth and continuous learning are essential for our development. I value collaboration and knowledge sharing with the community; I hope you like it!
 
-**My knowledge:**
+**Technical Skills:**
 
 ```
 ✔︎ Backend: Java (Spring)
 ✔︎ Database Systems: PostgreSQL
 ✔︎ Messaging Systems: RabbitMQ
 ✔︎ Architecture: Clean, Hexagonal
-✔︎ Concept: SOLID, REST
+✔︎ Principles: SOLID, REST
 ✔︎ Platform: Docker
 ✔︎ Testing: Unit testing
 ```
