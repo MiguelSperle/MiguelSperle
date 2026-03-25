@@ -11,7 +11,7 @@ I am a Backend Developer focused on continuously expanding my knowledge. I belie
 ✔︎ Architecture: Clean, Hexagonal
 ✔︎ Principles: SOLID, REST
 ✔︎ Platform: Docker
-✔︎ Testing: Unit test
+✔︎ Testing: Unit tests
 ```
 
 <div>
