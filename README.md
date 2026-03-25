@@ -6,10 +6,11 @@ I am a Backend Developer focused on continuously expanding my knowledge. I belie
 
 ```
 ✔︎ Backend: Java (Spring)
-✔︎ Database Systems: PostgreSQL
-✔︎ Messaging Systems: RabbitMQ
-✔︎ Architecture: Clean, Hexagonal
-✔︎ Principles: SOLID, REST
+✔︎ Database System: PostgreSQL
+✔︎ Messaging System: RabbitMQ
+✔︎ Software Architecture: Clean, Hexagonal
+✔︎ Software Design Principle: SOLID
+✔︎ API: REST
 ✔︎ Platform: Docker
 ✔︎ Testing: Unit tests
 ```
