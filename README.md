@@ -2,7 +2,7 @@
 
 I am a Backend Developer focused on continuously expanding my knowledge. I believe that growth and continuous learning are essential for our development. I value collaboration and knowledge sharing with the community; I hope you like it!
 
-**Technical Skills:**
+**My skills:**
 
 ```
 ✔︎ Backend: Java (Spring)
