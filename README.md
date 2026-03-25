@@ -1,11 +1,11 @@
 ## Hello! Welcome to my profile
 
-I am a Backend Developer focused on continuously expanding my knowledge. I believe that growth and continuous learning are essential for our development. I value collaboration and knowledge sharing with the community; I hope you like it!
+I am a Back-end Developer focused on continuously expanding my knowledge. I believe that growth and continuous learning are essential for our development. I value collaboration and knowledge sharing with the community; I hope you like it!
 
 **My skills:**
 
 ```
-✔︎ Backend: Java (Spring)
+✔︎ Back-end: Java (Spring)
 ✔︎ Database Systems: PostgreSQL
 ✔︎ Messaging Systems: RabbitMQ
 ✔︎ Architecture: Clean, Hexagonal
