@@ -9,7 +9,7 @@ I am a Backend Developer focused on continuously expanding my knowledge. I belie
 ✔︎ Database System: PostgreSQL
 ✔︎ Messaging System: RabbitMQ
 ✔︎ Software Architecture: Clean, Hexagonal
-✔︎ Software Design Principle: SOLID
+✔︎ Software Design Principle: SOLID, DRY, KISS, YAGNI
 ✔︎ API: REST
 ✔︎ Platform: Docker
 ✔︎ Testing: Unit tests
