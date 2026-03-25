@@ -12,7 +12,7 @@ I am a Backend Developer focused on continuously expanding my knowledge. I belie
 ✔︎ Software Design Principle: SOLID, DRY, KISS, YAGNI
 ✔︎ API: REST
 ✔︎ Platform: Docker
-✔︎ Software Testing: Unit testing
+✔︎ Software Testing: Unit Testing
 ```
 
 <div>
