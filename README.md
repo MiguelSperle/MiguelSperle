@@ -22,7 +22,6 @@ I am a Backend Developer focused on continuously expanding my knowledge. I belie
 
 <br clear="both">
 <br clear="both">
-<br clear="both">
 
 <a href ="https://www.linkedin.com/in/miguelsperle">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
