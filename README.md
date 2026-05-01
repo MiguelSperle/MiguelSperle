@@ -8,8 +8,8 @@ I am a Backend Developer focused on continuously expanding my knowledge. I belie
 ✔︎ Backend: Java (Spring)
 ✔︎ Database System: PostgreSQL
 ✔︎ Messaging System: RabbitMQ
-✔︎ Architecture Style: Monolithic, Modular Monolithic
-✔︎ Architecture Pattern: Clean Architecture
+✔︎ Architectural Style: Monolithic, Modular Monolithic
+✔︎ Architectural Pattern: Clean Architecture
 ✔︎ Software Design Principle: SOLID, DRY, KISS, YAGNI
 ✔︎ API: REST
 ✔︎ Platform: Docker
