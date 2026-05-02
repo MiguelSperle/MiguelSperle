@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo(a) ao meu perfil!
 
-Sou um Desenvolvedor Backend focado em expandir continuamente meu conhecimento. Acredito que o crescimento e o aprendizado contínuo são essenciais para o nosso desenvolvimento como seres humanos. Valorizo a colaboração e o compartilhamento de conhecimento com a comunidade; espero que você goste!
+Sou um Desenvolvedor Backend focado sempre em expandir meus conhecimentos. Acredito que o crescimento e o aprendizado contínuo são essenciais para o nosso desenvolvimento como seres humanos. Valorizo a colaboração e o compartilhamento de conhecimento com a comunidade; espero que você goste!
 
 **Minhas habilidades:**
 
