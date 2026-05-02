@@ -1,18 +1,18 @@
-## Hello! Welcome to my profile!
+## Olá! Bem-vindo(a) ao meu perfil!
 
-I am a Backend Developer focused on continuously expanding my knowledge. I believe that growth and continuous learning are essential for our development as human beings. I value collaboration and knowledge sharing with the community; I hope you like it!
+Sou um Desenvolvedor Backend focado em expandir continuamente meu conhecimento. Acredito que o crescimento e o aprendizado contínuo são essenciais para o nosso desenvolvimento como seres humanos. Valorizo a colaboração e o compartilhamento de conhecimento com a comunidade; espero que você goste!
 
-**My skills:**
+**Minhas habilidades:**
 
 ```
 ✔︎ Backend: Java (Spring)
-✔︎ Database System: PostgreSQL
-✔︎ Messaging System: RabbitMQ
-✔︎ Software Architecture: Clean Architecture, Monolith (Traditional and Modular)
-✔︎ Software Design Principle: SOLID, DRY, KISS, YAGNI
+✔︎ Sistema de Banco de Dados: PostgreSQL
+✔︎ Sistema de Mensageria: RabbitMQ
+✔︎ Arquitetura de Software: Limpa, Monólito (Tradicional e Modular)
+✔︎ Princípio de Design de Software: SOLID, DRY, KISS, YAGNI
 ✔︎ API: REST
-✔︎ Platform: Docker
-✔︎ Software Testing: Unit Testing
+✔︎ Plataforma: Docker
+✔︎ Teste de Software: Teste Unitário
 ```
 
 <div>
