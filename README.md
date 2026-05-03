@@ -8,7 +8,7 @@ Sou um Desenvolvedor Backend focado em expandir meus conhecimentos constantement
 ✔︎ Backend: Java (Spring)
 ✔︎ Sistema de Banco de Dados: PostgreSQL
 ✔︎ Sistema de Mensageria: RabbitMQ
-✔︎ Arquitetura de Software: Arquitetura Limpa, Monólito (Tradicional e Modular)
+✔︎ Arquitetura de Software: Monolítica (Tradicional e Modular), Limpa
 ✔︎ Princípio de Design de Software: SOLID, DRY, KISS, YAGNI
 ✔︎ API: REST
 ✔︎ Plataforma: Docker
