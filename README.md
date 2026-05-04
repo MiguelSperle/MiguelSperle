@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo(a) ao meu perfil!
 
-Desenvolvedor Backend em constante aprendizado, focado em evolução contínua. Valorizo colaboração e compartilhamento de conhecimento com a comunidade; espero que você goste!
+Sou um Desenvolvedor Backend em aprendizado constante, valorizo a ideia de compartilhar conhecimentos com outras pessoas e busco sempre aplicar na prática o que aprendo.
 
 **Minhas habilidades:**
 
@@ -15,14 +15,10 @@ Desenvolvedor Backend em constante aprendizado, focado em evolução contínua. 
 ✔︎ Teste de Software: Teste Unitário
 ```
 
-<div>
+<!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelSperle&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSperle&hide_border=true&layout=compact&theme=dark" align="left" height="180em" />
-</div>
-
-
-<br clear="both">
-<br clear="both">
+</div> -->
 
 <a href ="https://www.linkedin.com/in/miguelsperle">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
