@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo(a) ao meu perfil!
 
-Desenvolvedor Backend
+Sou apenas um Desenvolvedor Backend.
 
 **Minhas habilidades:**
 
