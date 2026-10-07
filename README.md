@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo(a) ao meu perfil!
 
-Sou um Desenvolvedor Backend em constante aprendizado, valorizo a troca de conhecimento com outras pessoas e procuro sempre colocar em prática tudo aquilo que aprendo. Espero que goste!
+Desenvolvedor Backend.
 
 **Minhas habilidades:**
 
