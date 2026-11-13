@@ -7,7 +7,6 @@
 ✔︎ Test Automation: Playwright
 ✔︎ Software Testing: End-to-End (E2E)
 ✔︎ Design Patterns: Page Object Model (POM)
-✔︎ Testing Patterns: Arrange-Act-Assert (AAA)
 ✔︎ Version Control: Git, GitHub
 ```
 <a href ="https://www.linkedin.com/in/miguelsperle">
